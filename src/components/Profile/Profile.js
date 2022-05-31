@@ -1,8 +1,8 @@
 import PropType from "prop-type";
 import "./Profile.css";
 
-export default function Profile(props) {
-    const { userName, tag, location, avatar, stats} = props;
+export default function Profile({userName, tag, location, avatar, stats}) {
+    
     return (
         <div className="profile">
             <div className="description">

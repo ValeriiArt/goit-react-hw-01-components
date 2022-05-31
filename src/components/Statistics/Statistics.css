@@ -1,0 +1,16 @@
+.statistics{
+    display: block;
+    width: 400px;
+    border: 1px solid;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #f1c1c1;
+}
+.title{
+    text-transform: uppercase;
+}
+.stat-list{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
