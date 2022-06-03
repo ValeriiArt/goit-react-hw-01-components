@@ -1,0 +1,23 @@
+.item{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    padding: 10px 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #e6faaa;
+}
+.statusOnLine{
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: #008000;
+    border-radius: 50%;
+}
+.statusOffLine {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: #ff0000;
+    border-radius: 50%;
+}

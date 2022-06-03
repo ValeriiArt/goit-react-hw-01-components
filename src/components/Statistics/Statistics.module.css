@@ -9,7 +9,7 @@
 .title{
     text-transform: uppercase;
 }
-.stat-list{
+.statList{
     display: flex;
     justify-content: space-around;
     padding: 15px;
