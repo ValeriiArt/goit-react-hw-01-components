@@ -1,0 +1,13 @@
+.transactionHistory{
+    max-width: 600px;
+    background: #a9a9a9;
+    margin: 0 auto;
+
+}
+th{
+ background-color: #808080;
+ padding: 10px 20px;
+}
+td{
+    padding: 20px 40px;
+}
